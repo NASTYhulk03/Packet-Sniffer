@@ -1,4 +1,8 @@
-# Packet-Sniffer
+# Packet Sniffer
+
+## Description
+Packet Sniffer is a network traffic analyzer that captures and analyzes network packets in real-time. This tool is designed to help network administrators and security professionals monitor and diagnose network issues, as well as detect potential security threats. The sniffer supports capturing packets from multiple network interfaces and can output detailed packet data for further analysis.
+
 ## Running the Application
 
 ### Development Mode
